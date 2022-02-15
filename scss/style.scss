@@ -16,7 +16,7 @@ img {
   height: auto;
 }
 .main {
-  margin-top: 80px;
+  margin-top: 90px;
   @include foundation.mq(sm) {
     margin-top: 60px;
   }
